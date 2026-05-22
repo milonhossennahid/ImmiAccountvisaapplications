@@ -1,7 +1,7 @@
 # Architecture Overview — Immigration & Citizenship (static site)
 
 This diagram shows a high-level architecture for the provided static site (HTML page). It highlights hosting, CDN, static assets, external services (VEVO, ImmiAccount, PDFs), analytics, and operational pieces such as CI/CD, monitoring and s
-
+Home Affairs brings together Australia's federal law enforcement, national and transport security, criminal justice, emergency management, ... 
 
 Notes
 - The site appears to be a static HTML site served from a static host (Netlify in links). Static assets (images) are hosted on an external image host (uploads.onecompiler.io). External links point to authoritative services (VEVO, ImmiAccount, embassy PDFs).
